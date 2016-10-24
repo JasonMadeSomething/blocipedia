@@ -39,6 +39,8 @@ gem 'bootstrap'
 
 gem 'figaro'
 
+gem 'mailgun-ruby', require: 'mailgun'
+
 gem 'pry'
 
 gem 'devise'
